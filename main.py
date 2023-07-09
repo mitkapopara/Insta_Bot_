@@ -6,8 +6,8 @@ import time
 
 CHROME_DRIVER_PATH = "C:/Users/meet/Desktop/Development/chromedriver.exe"
 SIMILAR_ACCOUNT = "pryaofficial"
-USERNAME = "07442083245"
-PASSWORD = "Vsauce@2050"
+USERNAME = ""
+PASSWORD = ""
 
 class InstaFollower:
     def __init__(self, path):
